@@ -1,0 +1,13 @@
+.con{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #161E46;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
